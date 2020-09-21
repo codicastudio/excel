@@ -1,32 +1,26 @@
 {
-  "name": "maatwebsite/excel",
-  "description": "Supercharged Excel exports and imports in Laravel",
-  "license": "MIT",
+  "name": "codicastudio/excel",
+  "description": "A noobs worthless garbage, just learning.",
   "keywords": [
-    "laravel",
-    "php",
-    "phpspreadsheet",
-    "phpexcel",
-    "excel",
-    "csv",
-    "export",
-    "import",
-    "batch"
+      "worthless garabage by a noob."
   ],
+  "homepage": "https://github.com/codicastudio/excel",
+  "license": "MIT",
   "authors": [
-    {
-      "name": "Patrick Brouwers",
-      "email": "patrick@maatwebsite.nl"
-    }
+      {
+          "name": "Michael J Brown",
+          "email": "mbrown@codicastudio.com",
+          "homepage": "https://codicastudio.com",
+          "role": "Developer"
+      }
   ],
   "require": {
     "ext-json": "*",
-    "php": "^7.0",
+    "php": "^7.4",
     "phpoffice/phpspreadsheet": "^1.14",
-    "illuminate/support": "5.5.*|5.6.*|5.7.*|5.8.*|^6.0|^7.0|^8.0"
+    "illuminate/support": "^8.0"
   },
   "require-dev": {
-    "orchestra/testbench": "^6.0",
     "predis/predis": "^1.1"
   },
   "autoload": {
