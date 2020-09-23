@@ -1,10 +1,10 @@
 {
-  "name": "codicastudio/excel",
-  "description": "A noobs worthless garbage, just learning.",
+  "name": "codica-studio/excel",
+  "description": "A random Codica Studio package.",
   "keywords": [
-      "worthless garabage by a noob."
+      ""
   ],
-  "homepage": "https://github.com/codicastudio/excel",
+  "homepage": "https://github.com/codica-studio/excel",
   "license": "MIT",
   "authors": [
       {
@@ -16,7 +16,7 @@
   ],
   "require": {
     "ext-json": "*",
-    "php": "^7.4",
+    "php": "^7.4 || ^8.0",
     "phpoffice/phpspreadsheet": "^1.14",
     "illuminate/support": "^8.0"
   },
