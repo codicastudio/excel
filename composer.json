@@ -1,5 +1,5 @@
 {
-  "name": "codica-studio/excel",
+  "name": "codicastudio/excel",
   "description": "A random Codica Studio package.",
   "homepage": "https://github.com/codicastudio/excel",
   "license": "MIT",
@@ -40,6 +40,6 @@
       }
     }
   },
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "prefer-stable": true
 }
